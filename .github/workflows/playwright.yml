@@ -33,3 +33,6 @@ jobs:
       with:
         name: test-results
         path: test-results/
+        
+    - name: List test-results content
+      run: ls -la test-results || echo "Folder not found"
