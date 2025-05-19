@@ -1,0 +1,26 @@
+{
+  "name": "automation_project_demo",
+  "version": "1.0.0",
+  "description": "\"# demo_automation_playwright\"",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bichvt233/demo_automation_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bichvt233/demo_automation_playwright/issues"
+  },
+  "homepage": "https://github.com/bichvt233/demo_automation_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.19"
+  }
+}
